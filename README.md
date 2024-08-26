@@ -9,7 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Testing the application capabilities
 To test authorization and the entire application in general, use the following login parameters:
 Username - sugarySeafowl7 
-Password - NNGileQ6Ic
+Password - pJaAuueDUh
 
 
 ## Pages to test
