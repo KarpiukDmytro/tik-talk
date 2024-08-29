@@ -16,3 +16,4 @@ Password - pJaAuueDUh
 http://localhost:4200/ - search page (for the moment it's the main page)
 http://localhost:4200/profile - profile page
 http://localhost:4200/login - authorisation page
+http://localhost:4200/login - profile settings page
